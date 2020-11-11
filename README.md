@@ -2,17 +2,22 @@
 
 ### About me
 
-Hi, my name is **Yueteng** (full name is HU Yueteng. Yes, surname comes first). Thanks for coming around ;)
+Hi, my name is **Yueteng** (full name is HU Yueteng. Yes, surname comes first). Thanks for stopping by ;)
 
 I've got 4 and a half years' experience in software engineering. Now I'm on the way to complete my Master's in Computer Science at Cornell University.
 
 **I'm looking for opportunities as a software development engineer starting in May 2021.**
 
+<hr/>
+
 ### Links
 
-[LinkedIn](https://www.linkedin.com/in/yuetenghu/)
+<a href="https://www.linkedin.com/in/yuetenghu/" target="_blank">LinkedIn</a>
 
-[GitHub](https://github.com/yuetenghu)
+<a href="https://github.com/yuetenghu" target="_blank">GitHub</a>
+
+<hr/>
+
 
 ### Personal projects
 
