@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Yueteng's page
 
-You can use the [editor on GitHub](https://github.com/yuetenghu/yuetenghu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi, my name is **Yueteng** (full name is HU Yueteng. Yes, surname comes first). Thanks for coming around ;)
 
-### Markdown
+I've got 4 and a half years' experience in software engineering. Now I'm on the way to complete my Master's in Computer Science at Cornell University.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**I'm looking for opportunities as a software development engineer starting in May 2021.**
 
-```markdown
-Syntax highlighted code block
+### Links
 
-# Header 1
-## Header 2
-### Header 3
+[LinkedIn](https://www.linkedin.com/in/yuetenghu/)
 
-- Bulleted
-- List
+[GitHub](https://github.com/yuetenghu)
 
-1. Numbered
-2. List
+### Personal projects
 
-**Bold** and _Italic_ and `Code` text
+#### Campus2home (c2h) Project
 
-[Link](url) and ![Image](src)
-```
+Campus2home (c2h) is my most recently finished project, which is a web app for Washington University Campus2home shuttle service. I'm the full-stack developer on this project.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Would like to know more details and give a try?
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuetenghu/yuetenghu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Click:** [**Campus2home Project**](campus2home.md)
